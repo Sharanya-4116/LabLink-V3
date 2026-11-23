@@ -1,0 +1,6 @@
+{
+  "name": "LabLink V3",
+  "description": "Intelligent Campus Laboratory Resource-Sharing & Fair Scheduling Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
